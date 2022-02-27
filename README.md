@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raditholemaripa
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning C/C++, C# and Python
+- 👀 I’m interested in Computer Science, Engineering and Mathematics.
+- 🌱 I’m a C/C++, C# and Python programmer
 - 💞️ I’m looking to collaborate on creating data science apps, games, and softwares for making computers run better.
 
 <!---
