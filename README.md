@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raditholemaripa
-- 👀 I’m interested in Computer Science, Engineering and Mathematics.
-- 🌱 I’m a C/C++, and Python programmer
+- 👀 I’m interested in Computer Science, Electronics and Mathematics.
+- 🌱 I’m a C/C++, Java, and Python programmer
 
 <!---
 raditholemaripa/raditholemaripa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
