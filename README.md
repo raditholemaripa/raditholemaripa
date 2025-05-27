@@ -34,9 +34,8 @@ with a strong foundation in mathematics and algorithm design.
 ---
 
 ### 📫 Let’s Connect
-- [LinkedIn]www.linkedin.com/in/raditholemaripa
-)
-- [Email]radithole.maripa@gmail.com
+- [LinkedIn](www.linkedin.com/in/raditholemaripa)
+- [Email](radithole.maripa@gmail.com)
 
 ---
 
